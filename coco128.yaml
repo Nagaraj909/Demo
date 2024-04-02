@@ -1,0 +1,6 @@
+train: D:\yolo_training\datasets\Thermal\train\images
+val: D:\yolo_training\datasets\Thermal\val\images
+
+nc: 2
+
+names: ["Clamp", "Thermal_Insulator"]
